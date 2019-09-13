@@ -1,6 +1,6 @@
 # API REST com REST ASSURED
 
-Realizei testes de API, no site https://reqres.in/ com dados fakes.
+Realizei testes de API do site https://reqres.in/ com dados fakes.
 
 Os seguintes cenários de testes foram utilizados para cada rota:
 
