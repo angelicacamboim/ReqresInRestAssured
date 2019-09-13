@@ -1,5 +1,4 @@
-# reqresinrestassured
-API REST com REST ASSURED
+# API REST com REST ASSURED
 
 Realizei testes de API, no site https://reqres.in/ com dados fakes.
 
